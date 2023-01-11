@@ -13,9 +13,7 @@ It is a repo where all my work in ParibuHub-Solidity-Practicum will be stored up
   
 ## Used technologies
 
-**:** React, Vanilla JS, Solidity lang
-
-**:** Node, Express
+**:** Solidity
 
   
 ## Licences
